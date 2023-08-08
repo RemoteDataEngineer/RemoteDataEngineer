@@ -8,7 +8,7 @@
 
 My latest Data Warehouse (see <a href = "https://github.com/RemoteDataEngineer/FlDogs/blob/main/template.json"> ARM template </a> in the <a href = "https://github.com/RemoteDataEngineer/FlDogs"> Fl Dogs repository </a>) is inspired by our current shelter dog crisis in Florida. The <a href = "https://github.com/RemoteDataEngineer/FlDogs/blob/main/PetfinderApi%20FlDogs%20Production%2020230731.pbix"> Power Bi </a> uses Direct Query data from a Delta Lake that is populated <a href = "https://www.petfinder.com/developers/v2/docs/"> Petfinder API </a> data, ingested with an <a href = "https://github.com/RemoteDataEngineer/FlDogs/blob/main/Template%20for%20Standard%20Version%20of%20SummerInterview2023%20Logic%20App.zip" > Azure Logic App </a>, and transformed and loaded through <a href = "https://github.com/RemoteDataEngineer/FlDogs/tree/main/Databricks%20Notebooks"> Azure Databricks Notebooks </a>, and an <a href = "https://github.com/RemoteDataEngineer/FlDogs/blob/main/Template%20for%20ADF%20For%20Each%20Databricks%20Config%20Row.zip"> Azure Data Factory </a>. 
 
-Within the Power Bi, end users can search a Delta Lake refreshed weekly with a database of thousands of dogs available for adoption in Florida
+Within the Power Bi, end users can search a Delta Lake refreshed weekly with a database of thousands of dogs available for adoption in Florida.
 
 <b> With significant experience as a Senior Analyst, Data Quality Engineer, Data Architect and Data Engineer, I believe my skillset is an excellent match for your organization. </b>
 
