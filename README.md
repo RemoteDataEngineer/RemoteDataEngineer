@@ -1,6 +1,6 @@
 
 - 👀 I’m interested in consulting on your next Data Engineering, Data Architecture or Data Governance project
-- 🌱 I’m currently studying Machine Learning.
+- 🌱 I’m currently studying Machine Learning. My latest projects are <a href = "https://github.com/RemoteDataEngineer/Linear-Regression-Homeprices">single variable linear regression in Jupyter Notbooks </a>. I also recently added Azure Databricks notebooks for <a href = "https://github.com/RemoteDataEngineer/PySparkFeatureEngineeringSelectionIris"> Feature Engineering and Selection </a> and <a href = "https://github.com/RemoteDataEngineer/PySparkLinearRegressionMealBills">Linear Regression Using Categorical Variables </a> in PySpark. 
 - 💞️ I’m looking to collaborate on Python projects. 
 - 📫 How to reach me: <b> hire@remote-data-engineering.com or connect with me on <a href = "https://www.linkedin.com/in/remotedataengineer/"> LinkedIn </a> </b>
 
