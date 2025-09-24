@@ -1,9 +1,10 @@
 
-- 👀 I’m interested in consulting on your next Data Engineering, Data Architecture or Data Governance project
+- 👀 I’m interested in consulting on your next Data Engineering, Data Architecture or Data Governance project.
+- 📊 Check out my Business Strategy Dashboard in <a href ="https://app.powerbi.com/reportEmbed?reportId=1504f0a3-6062-47fd-8ee1-d1a4779684e6&autoAuth=true&ctid=10d540e4-9455-436a-8f87-a2f019fb8983&actionBarEnabled=true&reportCopilotInEmbed=true"> Power Bi </a> utilizing Lakehouse and Data Flow Gen2 in a Medallion Architecture.
 - 🌱 I’m currently studying Machine Learning. My latest projects are <a href = "https://github.com/RemoteDataEngineer/Linear-Regression-Homeprices">single variable linear regression in Jupyter Notbooks </a>. I also recently added Azure Databricks notebooks for <a href = "https://github.com/RemoteDataEngineer/PySparkFeatureEngineeringSelectionIris"> Feature Engineering and Selection </a> and <a href = "https://github.com/RemoteDataEngineer/PySparkLinearRegressionMealBills">Linear Regression Using Categorical Variables </a> in PySpark. 
 - 💞️ I’m looking to collaborate on Python projects. 
 - 👀 For an interview I added an <a href = "https://github.com/RemoteDataEngineer/AzureArmTemplateFailoverAnalysisServices"> Azure Arm Template </a> that includes an Azure SQL Database with Adventure Works, a failover Azure SQL Database and an Analysis Services Cube. 
-- 📫 How to reach me: <b> hire@remote-data-engineering.com or connect with me on <a href = "https://www.linkedin.com/in/remotedataengineer/"> LinkedIn </a> </b>
+- 📫 How to reach me: <b> hire@remote-data-engineering.com or connect with me on <a href = "https://www.linkedin.com/in/remotedataengineer/"> LinkedIn </a> </b>.
 
 <h1> Latest Work </h1>
 
